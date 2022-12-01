@@ -94,7 +94,9 @@ function doDevis(memberNumber, federation, sectionNumber) {
 }
 /*
 
-La stratégie de test vas etre de vérifier les outputs des fonctions getMemberPrice mais pas l'output de doDevis
+La stratégie de test vas etre de vérifier les outputs des fonctions getMemberPrice mais pas l'output de doDevis pour un 
+si petit projet il serait trop lourd d'ajouter un framework de test donc j'ai fait une fonction
+
 
 */
 
